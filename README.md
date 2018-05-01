@@ -21,6 +21,10 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
+- A1
+- A2
+- A3
+
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
