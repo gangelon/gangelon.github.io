@@ -2,7 +2,7 @@
 
 
 <a target="_blank" href="https://user-images.githubusercontent.com/38883503/39476046-25408480-4d4a-11e8-9dbd-df474a1c3af9.jpg"> 
-<img width="90" alt="My title" src="https://user-images.githubusercontent.com/38883503/39476046-25408480-4d4a-11e8-9dbd-df474a1c3af9.jpg"/></a>
+<img width="90" height="120" alt="My title" src="https://user-images.githubusercontent.com/38883503/39476046-25408480-4d4a-11e8-9dbd-df474a1c3af9.jpg"/></a>
 
 You can use the [editor on GitHub](https://github.com/gangelon/gangelon.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
