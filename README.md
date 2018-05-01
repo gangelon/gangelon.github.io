@@ -24,7 +24,7 @@ Syntax highlighted code block
 - List
 
 1. Numbered
-1. List
+2. List
 4. Continued
 
 - A1
