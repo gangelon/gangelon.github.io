@@ -2,10 +2,10 @@
 
 ![me](https://user-images.githubusercontent.com/38883503/39476046-25408480-4d4a-11e8-9dbd-df474a1c3af9.jpg)
 
+You can use the [editor on GitHub](https://github.com/gangelon/gangelon.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+
 <a target="_blank" href="https://user-images.githubusercontent.com/38883503/39476046-25408480-4d4a-11e8-9dbd-df474a1c3af9.jpg">
 <imag width="350" alt="My title" src="https://user-images.githubusercontent.com/38883503/39476046-25408480-4d4a-11e8-9dbd-df474a1c3af9.jpg"/></a>
-
-You can use the [editor on GitHub](https://github.com/gangelon/gangelon.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
